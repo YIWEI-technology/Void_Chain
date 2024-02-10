@@ -4,3 +4,7 @@
 EN
 Lightweight encryption program example, can expand more components, still under development, more project files to be uploaded......
 A Python program for file encryption and decryption. The content of the input file is protected based on AES symmetric encryption algorithm, and data is populated using PKCS7 padding scheme.
+
+2.0.0更新公告
+#功能性更新：
+在设置面板新增了三角协同验证，该功能旨在提升加密强度
